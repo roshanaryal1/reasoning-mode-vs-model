@@ -158,7 +158,7 @@ Leakage, MARGO, Lau, Madur or Sahu et al.
 
 ## Own prior work
 
-- LA-P1, LLMs as Systems Architects (Cureus, under review; Zenodo DOI 10.5281/zenodo.22245991). Source of the prompt, rubric and the DeepSeek pilot.
+- LA-P1, LLMs as Systems Architects (Cureus, peer review complete, in production; Zenodo DOI 10.5281/zenodo.22245991). Source of the prompt, rubric and the DeepSeek pilot.
 
 ## Links
 
